@@ -1,0 +1,10 @@
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\bin\Debug\CS061PanelPresun.exe.config
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\bin\Debug\CS061PanelPresun.exe
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\bin\Debug\CS061PanelPresun.pdb
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.csprojAssemblyReference.cache
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.Properties.Resources.resources
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.csproj.GenerateResource.cache
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.csproj.CoreCompileInputs.cache
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.exe
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.pdb
+C:\Users\oldab\Documents\CS061PanelPresun\CS061PanelPresun\obj\Debug\CS061PanelPresun.PanelPresunForm.resources
